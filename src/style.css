@@ -1,0 +1,9 @@
+button{
+    margin: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+}
+body{
+    background-color: bisque;
+}
